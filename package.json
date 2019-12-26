@@ -122,7 +122,7 @@
     "gitbook-plugin-favicon": "0.0.2",
     "gitbook-plugin-github": "^2.0.0",
     "gitbook-plugin-theme-api": "^1.1.2",
-    "handlebars": "4.0.6",
+    "handlebars": "4.5.3",
     "joanna": "0.0.8",
     "meta-marked": "0.4.2",
     "tello": "1.0.6"
